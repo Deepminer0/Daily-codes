@@ -1,2 +1,1 @@
-# Daily-codes
-Dailly Codes
+# Home-it-All
